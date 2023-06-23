@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Ali</h1>
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React, JavaScript, CSS, HTML, BootStrap,**
+- 💬 Ask me about **React, JavaScript, CSS, HTML, BootStrap,Tailwindcss**
 
 - 📫 How to reach me **www.linkedin.com/in/mehmet-ali-tortumlu**
 
